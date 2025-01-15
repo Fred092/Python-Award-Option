@@ -1,4 +1,6 @@
-# Python-Award-Option by Mr Ssemwanga
+# Freddie Taylor Python-Award-Option
+
+## *Python-Award-Option by Mr Ssemwanga*
 
 ### Overview
 
